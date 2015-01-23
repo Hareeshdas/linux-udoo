@@ -916,7 +916,7 @@
 			reg = <0x02100000 0x100000>;
 			ranges;
 
-			crypto: caam@02100000 {
+			crypto: caam@2100000 {
 					compatible = "fsl,sec-v4.0";
 					#address-cells = <1>;
 					#size-cells = <1>;
